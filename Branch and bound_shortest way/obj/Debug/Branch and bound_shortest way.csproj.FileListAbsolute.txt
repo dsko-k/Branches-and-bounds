@@ -1,0 +1,6 @@
+E:\Программирование\Мои программы\Branch and bound_shortest way\Branch and bound_shortest way\bin\Debug\Branch and bound_shortest way.exe.config
+E:\Программирование\Мои программы\Branch and bound_shortest way\Branch and bound_shortest way\bin\Debug\Branch and bound_shortest way.exe
+E:\Программирование\Мои программы\Branch and bound_shortest way\Branch and bound_shortest way\bin\Debug\Branch and bound_shortest way.pdb
+E:\Программирование\Мои программы\Branch and bound_shortest way\Branch and bound_shortest way\obj\Debug\Branch and bound_shortest way.csprojResolveAssemblyReference.cache
+E:\Программирование\Мои программы\Branch and bound_shortest way\Branch and bound_shortest way\obj\Debug\Branch and bound_shortest way.exe
+E:\Программирование\Мои программы\Branch and bound_shortest way\Branch and bound_shortest way\obj\Debug\Branch and bound_shortest way.pdb
